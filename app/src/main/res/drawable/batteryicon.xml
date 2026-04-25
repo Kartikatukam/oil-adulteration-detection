@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+  <!-- Battery Body Rounded -->
+  <path
+      android:pathData="M4,7
+                          H18
+                          A2,2 0 0 1 20,9
+                          V15
+                          A2,2 0 0 1 18,17
+                          H4
+                          A2,2 0 0 1 2,15
+                          V9
+                          A2,2 0 0 1 4,7 Z"
+      android:strokeWidth="2"
+      android:strokeColor="#4CAF50"
+      android:fillColor="@android:color/transparent"/>
+
+  <!-- Battery Head -->
+  <path
+      android:pathData="M20,10 H22 V14 H20 Z"
+      android:fillColor="#4CAF50"/>
+
+</vector>
